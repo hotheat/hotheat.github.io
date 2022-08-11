@@ -1,0 +1,137 @@
+.app-guide[data-v-59444478] {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 13;
+  background: #19191E;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.app-guide .app-guide-warp[data-v-59444478] {
+  width: 100%;
+  max-width: 500px;
+  max-width: 5.85652rem;
+  margin: 0 auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+}
+.app-guide .bg[data-v-59444478] {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+  margin-left: 180px;
+  margin-left: 2.10835rem;
+  margin-bottom: 100px;
+  margin-bottom: 1.1713rem;
+}
+.app-guide .images[data-v-59444478] {
+  position: relative;
+}
+.app-guide .images .img1[data-v-59444478] {
+  width: 100%;
+  height: auto;
+  max-width: 360px;
+  max-width: 4.21669rem;
+  display: block;
+  margin: 0 auto;
+}
+.app-guide .logo[data-v-59444478] {
+  margin-top: 64px;
+  margin-top: 0.74963rem;
+}
+.app-guide .logo img[data-v-59444478] {
+  width: 120px;
+  width: 1.40556rem;
+  height: auto;
+}
+.app-guide .drsc[data-v-59444478] {
+  font-size: 20px;
+  font-size: 0.23426rem;
+  font-weight: bold;
+  line-height: 16px;
+  line-height: 0.18741rem;
+  letter-spacing: 0em;
+  color: #D1D1D2;
+  margin-top: 20px;
+  margin-top: 0.23426rem;
+}
+.app-guide .operate[data-v-59444478] {
+  margin: 30px 5px 0 5px;
+  margin: 0.35139rem 0.05857rem 0 0.05857rem;
+}
+.app-guide .operate a[data-v-59444478] {
+  margin-right: 10px;
+  margin-right: 0.11713rem;
+  height: 76px;
+  height: 0.89019rem;
+  border-radius: 16px;
+  border-radius: 0.18741rem;
+  -webkit-box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+          box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+  -webkit-box-shadow: 0 0 0.05857rem rgba(255, 255, 255, 0.2);
+          box-shadow: 0 0 0.05857rem rgba(255, 255, 255, 0.2);
+  margin-top: 30px;
+  margin-top: 0.35139rem;
+  text-decoration: none;
+}
+.app-guide .operate a[data-v-59444478]:first-child {
+  background: -webkit-gradient(linear, right top, left top, from(#2AF598), color-stop(0%, #2AF598), color-stop(100%, #009EFD), to(#009EFD));
+  background: -webkit-linear-gradient(right, #2AF598 0%, #2AF598 0%, #009EFD 100%, #009EFD 100%);
+  background: -o-linear-gradient(right, #2AF598 0%, #2AF598 0%, #009EFD 100%, #009EFD 100%);
+  background: linear-gradient(270deg, #2AF598 0%, #2AF598 0%, #009EFD 100%, #009EFD 100%);
+}
+.app-guide .operate a[data-v-59444478]:last-child {
+  margin-right: 0;
+  background: #26262E;
+  border: 1px solid #606266;
+  border: 0.01171rem solid #606266;
+}
+.app-guide .operate a .title[data-v-59444478] {
+  font-size: 20px;
+  font-size: 0.23426rem;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+.app-guide .operate a .icon[data-v-59444478] {
+  width: 32px;
+  width: 0.37482rem;
+  height: 32px;
+  height: 0.37482rem;
+  margin-right: 6px;
+  margin-right: 0.07028rem;
+}
+.app-guide .operate a .subtitle[data-v-59444478] {
+  color: #fff;
+  font-size: 16px;
+  font-size: 0.18741rem;
+  margin-top: 5px;
+  margin-top: 0.05857rem;
+}
+.wxtip[data-v-59444478] {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 999;
+  background: #fff;
+}
+.wxtip img[data-v-59444478] {
+  width: 100%;
+}
+.wxtip .operate[data-v-59444478] {
+  padding: 16px;
+  padding: 0.18741rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.wxtip .operate .el-button[data-v-59444478] {
+  width: 100%;
+}

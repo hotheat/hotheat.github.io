@@ -1,0 +1,91 @@
+.closeWrap[data-v-3e9b7e52] {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 150px;
+  margin-top: 1.75695rem;
+}
+.closeWrap .top[data-v-3e9b7e52] {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.closeWrap .top img[data-v-3e9b7e52] {
+  width: 60px;
+  width: 0.70278rem;
+  height: 60px;
+  height: 0.70278rem;
+}
+.closeWrap .top span[data-v-3e9b7e52] {
+  font-size: 20px;
+  font-size: 0.23426rem;
+  color: #FCA63D;
+}
+.closeWrap .foot[data-v-3e9b7e52] {
+  margin-top: 60px;
+  margin-top: 0.70278rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.closeWrap .foot button[data-v-3e9b7e52] {
+  cursor: pointer;
+  border: 1px solid #FCA63D;
+  border: 0.01171rem solid #FCA63D;
+  border-radius: 8px;
+  border-radius: 0.0937rem;
+  color: #FCA63D;
+  background-color: #fff;
+  padding: 15px 60px;
+  padding: 0.1757rem 0.70278rem;
+  text-align: center;
+}
+.closeWrap .foot span[data-v-3e9b7e52] {
+  margin-top: 30px;
+  margin-top: 0.35139rem;
+  font-size: 16px;
+  font-size: 0.18741rem;
+  color: #606266;
+}

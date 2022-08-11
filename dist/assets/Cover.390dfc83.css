@@ -1,0 +1,127 @@
+.cover[data-v-0d142784] {
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+  position: relative;
+  background: #fff;
+  border-radius: 12px 12px 0 0;
+  border-radius: 0.14056rem 0.14056rem 0 0;
+  overflow: hidden;
+}
+.cover .sellOff[data-v-0d142784] {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 120px;
+  width: 1.40556rem;
+  height: 104px;
+  height: 1.21816rem;
+}
+.cover .sellOut[data-v-0d142784] {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  font-size: 28px;
+  font-size: 0.32796rem;
+  color: #fff;
+}
+.cover .remint[data-v-0d142784] {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin-left: 12px;
+  margin-left: 0.14056rem;
+  margin-top: 12px;
+  margin-top: 0.14056rem;
+  z-index: 2;
+  background: #3081DC;
+  display: inline-block;
+  padding: 5px 10px;
+  padding: 0.05857rem 0.11713rem;
+  color: #fff;
+  border-radius: 5px;
+  border-radius: 0.05857rem;
+}
+.cover[data-v-0d142784] .el-image,
+.cover .cube[data-v-0d142784],
+.cover .el-skeleton__item[data-v-0d142784] {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  border-radius: 0.14056rem;
+  text-align: center;
+}
+.cover .cube[data-v-0d142784] {
+  cursor: pointer;
+}
+.cover .blindBoxImg[data-v-0d142784] {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.cover .blindBoxImg img[data-v-0d142784]:nth-child(1) {
+  width: 100%;
+  height: 100%;
+}
+.cover .blindBoxImg img[data-v-0d142784]:nth-child(2) {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 120px;
+  width: 1.40556rem;
+  height: 104px;
+  height: 1.21816rem;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.cover .blindBoxImg span[data-v-0d142784] {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  font-size: 28px;
+  font-size: 0.32796rem;
+  color: #fff;
+}
+.cover img[data-v-0d142784] {
+  height: 100%;
+  max-height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.cover[data-v-0d142784] .swiper .swiper-slide {
+  background-position: center;
+  background-size: cover;
+  background: #fff;
+}
+.cover[data-v-0d142784] .swiper .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}

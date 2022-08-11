@@ -1,0 +1,258 @@
+@charset "UTF-8";.user-msg .avatar-warp[data-v-0894f9bd] {
+  width: 48px;
+  width: 0.56223rem;
+  height: 48px;
+  height: 0.56223rem;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 20px;
+  margin-right: 0.23426rem;
+}
+.user-msg .cont .username[data-v-0894f9bd] {
+  font-size: 16px;
+  font-size: 0.18741rem;
+  font-weight: 500;
+}
+.user-msg .cont .username img[data-v-0894f9bd] {
+  margin-left: 8px;
+  margin-left: 0.0937rem;
+  width: 18px;
+  width: 0.21083rem;
+  height: 18px;
+  height: 0.21083rem;
+}
+.user-msg .cont .metaId[data-v-0894f9bd] {
+  font-size: 13px;
+  font-size: 0.15227rem;
+  color: #909399;
+  margin-top: 4px;
+  margin-top: 0.04685rem;
+}
+.user-msg .cont .metaId span[data-v-0894f9bd] {
+  margin-right: 5px;
+  margin-right: 0.05857rem;
+}
+.apps .app-list .app-item .right .cont .drsc[data-v-4baf5ccc], .apps .app-list .app-item .right .cont .title[data-v-4baf5ccc] {
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.apps[data-v-4baf5ccc] {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  background: #fff;
+  overflow: hidden;
+  left: 0;
+  top: 0;
+  position: fixed;
+}
+.apps .top[data-v-4baf5ccc] {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0;
+  top: 0;
+}
+.apps .header[data-v-4baf5ccc] {
+  height: 52px;
+  height: 0.60908rem;
+  background: #F7FAFC;
+  font-size: 18px;
+  font-size: 0.21083rem;
+  font-weight: bold;
+  position: relative;
+}
+.apps .header img[data-v-4baf5ccc] {
+  width: 18px;
+  width: 0.21083rem;
+  height: 18px;
+  height: 0.21083rem;
+  left: 0;
+  margin-left: 15px;
+  margin-left: 0.1757rem;
+  cursor: pointer;
+  position: absolute;
+}
+.apps .tabs[data-v-4baf5ccc] {
+  height: 58px;
+  height: 0.67936rem;
+  background: #fff;
+}
+.apps .tabs .tabs-item-warp[data-v-4baf5ccc] {
+  text-align: center;
+}
+.apps .tabs .tabs-item-warp a[data-v-4baf5ccc] {
+  font-size: 18px;
+  font-size: 0.21083rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+.apps .tabs .tabs-item-warp a.active[data-v-4baf5ccc] {
+  color: #FFCA14;
+}
+.apps .app-list[data-v-4baf5ccc] {
+  padding-bottom: 20px;
+  padding-bottom: 0.23426rem;
+  overflow-y: auto;
+  /*滚动条的宽度*/
+  /*外层轨道。可以用display:none让其不显示，也可以添加背景图片，颜色改变显示效果*/
+  /*滚动条的设置*/
+  /*滚动条移上去的背景*/
+}
+.apps .app-list[data-v-4baf5ccc]::-webkit-scrollbar {
+  width: 8px;
+  width: 0.0937rem;
+  height: 10px;
+  height: 0.11713rem;
+}
+.apps .app-list[data-v-4baf5ccc]::-webkit-scrollbar-track {
+  width: 0.06rem;
+  background-color: #eee;
+  border-radius: 0em;
+}
+.apps .app-list[data-v-4baf5ccc]::-webkit-scrollbar-thumb {
+  background-color: #fcd89e;
+  background-clip: padding-box;
+  min-height: 0.28rem;
+  border-radius: 1em;
+}
+.apps .app-list[data-v-4baf5ccc]::-webkit-scrollbar-thumb:hover {
+  background-color: #ffd99a;
+}
+.apps .app-list .app-item[data-v-4baf5ccc] {
+  padding: 0 12px;
+  padding: 0 0.14056rem;
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+.apps .app-list .app-item .icon[data-v-4baf5ccc] {
+  width: 48px;
+  width: 0.56223rem;
+  height: 48px;
+  height: 0.56223rem;
+  border-radius: 6px;
+  border-radius: 0.07028rem;
+  border: 1px solid #eee;
+  border: 0.01171rem solid #eee;
+  margin-right: 12px;
+  margin-right: 0.14056rem;
+}
+.apps .app-list .app-item .right[data-v-4baf5ccc] {
+  padding: 18px 0px;
+  padding: 0.21083rem 0;
+  border-bottom: 1px solid #F7F9FC;
+  border-bottom: 0.01171rem solid #F7F9FC;
+}
+.apps .app-list .app-item .right .cont .title[data-v-4baf5ccc] {
+  font-size: 18px;
+  font-size: 0.21083rem;
+}
+.apps .app-list .app-item .right .cont .title img[data-v-4baf5ccc] {
+  width: 14px;
+  width: 0.16398rem;
+  height: 14px;
+  height: 0.16398rem;
+}
+.apps .app-list .app-item .right .cont .drsc[data-v-4baf5ccc] {
+  font-size: 14px;
+  font-size: 0.16398rem;
+  color: #BFC2CC;
+  margin-top: 4px;
+  margin-top: 0.04685rem;
+}
+.apps .app-list .app-item .right .info[data-v-4baf5ccc] {
+  width: 26px;
+  width: 0.30454rem;
+  height: 26px;
+  height: 0.30454rem;
+  margin-left: 14px;
+  margin-left: 0.16398rem;
+}
+.apps .app-dowmload[data-v-4baf5ccc] {
+  cursor: pointer;
+  height: 60px;
+  height: 0.70278rem;
+  background: #303133;
+  color: #fff;
+  padding: 0 12px;
+  padding: 0 0.14056rem;
+  font-size: 16px;
+  font-size: 0.18741rem;
+}
+.apps .app-dowmload .icon[data-v-4baf5ccc] {
+  width: 34px;
+  width: 0.39824rem;
+  height: 34px;
+  height: 0.39824rem;
+  margin-right: 12px;
+  margin-right: 0.14056rem;
+}
+.apps .app-dowmload .right[data-v-4baf5ccc] {
+  width: 16px;
+  width: 0.18741rem;
+}
+.app-detail[data-v-4baf5ccc] {
+  padding: 18px;
+  padding: 0.21083rem;
+  background: #fff;
+}
+.app-detail .app-base-info .logo[data-v-4baf5ccc] {
+  width: 80px;
+  width: 0.93704rem;
+  height: 80px;
+  height: 0.93704rem;
+  border: 1px solid #F2F4F7;
+  border: 0.01171rem solid #F2F4F7;
+  border-radius: 12px;
+  border-radius: 0.14056rem;
+  margin-right: 12px;
+  margin-right: 0.14056rem;
+}
+.app-detail .app-base-info .cont .title[data-v-4baf5ccc] {
+  font-size: 18px;
+  font-size: 0.21083rem;
+  font-weight: bold;
+}
+.app-detail .app-base-info .cont .drsc[data-v-4baf5ccc] {
+  font-size: 14px;
+  font-size: 0.16398rem;
+  color: #909399;
+  margin-top: 8px;
+  margin-top: 0.0937rem;
+}
+.app-detail .labels[data-v-4baf5ccc] {
+  margin-top: 18px;
+  margin-top: 0.21083rem;
+}
+.app-detail .labels span[data-v-4baf5ccc] {
+  display: inline-block;
+  padding: 4px 12px;
+  padding: 0.04685rem 0.14056rem;
+  border-radius: 17px;
+  border-radius: 0.19912rem;
+  background: #FFF7DC;
+  color: #FFAE14;
+  font-size: 12px;
+  font-size: 0.14056rem;
+}
+.app-detail .detail-section[data-v-4baf5ccc] {
+  margin-top: 18px;
+  margin-top: 0.21083rem;
+}
+.app-detail .detail-section .name[data-v-4baf5ccc] {
+  font-size: 14px;
+  font-size: 0.16398rem;
+  color: #909399;
+}
+.app-detail .detail-section .cont[data-v-4baf5ccc] {
+  margin-top: 8px;
+  margin-top: 0.0937rem;
+}
+.app-detail .detail-section .cont .detail-section-cont a[data-v-4baf5ccc] {
+  color: #5173B9;
+  font-size: 14px;
+  font-size: 0.16398rem;
+  text-decoration: none;
+}

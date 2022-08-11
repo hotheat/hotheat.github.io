@@ -1,0 +1,50 @@
+.pagination[data-v-3110bc2f] {
+  padding: 50px 0;
+  padding: 0.58565rem 0;
+  text-align: center;
+}
+.pagination .nothing[data-v-3110bc2f] {
+  text-align: center;
+  color: #909399;
+  font-size: 14px;
+  font-size: 0.16398rem;
+  margin-top: 30px;
+  margin-top: 0.35139rem;
+}
+.pagination .more-warp[data-v-3110bc2f] {
+  cursor: pointer;
+  text-align: center;
+}
+.pagination .more-warp .tips[data-v-3110bc2f] {
+  font-size: 16px;
+  font-size: 0.18741rem;
+  width: 20%;
+  height: 20px;
+  height: 0.23426rem;
+  margin: auto;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  padding: 0.11713rem 0 0.11713rem 0;
+  background-color: #F5F5F5;
+  border-radius: 20px;
+  border-radius: 0.23426rem;
+}
+.pagination .more-warp .icon[data-v-3110bc2f] {
+  margin-top: 10px;
+  margin-top: 0.11713rem;
+}
+.pagination .more-warp .icon img[data-v-3110bc2f] {
+  width: 12px;
+  width: 0.14056rem;
+  height: 12px;
+  height: 0.14056rem;
+}
+@media only screen and (max-width: 750px) {
+.pagination[data-v-3110bc2f] {
+    padding: 0;
+    text-align: center;
+}
+.pagination .more-warp .tips[data-v-3110bc2f] {
+    width: 70%;
+}
+}

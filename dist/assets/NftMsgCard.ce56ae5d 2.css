@@ -1,0 +1,63 @@
+.nft-msg-card .cont .name[data-v-7ad692ef] {
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.nft-msg-card[data-v-7ad692ef] {
+  background: #fff;
+  border-radius: 8px;
+  border-radius: 0.0937rem;
+  overflow: hidden;
+}
+.nft-msg-card .cover[data-v-7ad692ef] {
+  width: 160px;
+  width: 1.87408rem;
+  height: 160px;
+  height: 1.87408rem;
+  border-radius: 6px;
+  border-radius: 0.07028rem;
+  background: #eee;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.nft-msg-card .cont[data-v-7ad692ef] {
+  padding: 15px;
+  padding: 0.1757rem;
+  min-width: 0;
+}
+.nft-msg-card .cont .name[data-v-7ad692ef] {
+  font-size: 18px;
+  font-size: 0.21083rem;
+  font-weight: 500;
+  margin-top: 0;
+}
+.nft-msg-card .cont .msg-item[data-v-7ad692ef] {
+  margin-top: 10px;
+  margin-top: 0.11713rem;
+}
+.nft-msg-card .cont .msg-item .key[data-v-7ad692ef] {
+  color: #909399;
+  font-size: 14px;
+  font-size: 0.16398rem;
+}
+.nft-msg-card .cont .msg-item .value[data-v-7ad692ef] {
+  min-width: 0;
+}
+.nft-msg-card .cont .msg-item .value .author img[data-v-7ad692ef],
+.nft-msg-card .cont .msg-item .value .author .el-skeleton__circle[data-v-7ad692ef] {
+  width: 20px;
+  width: 0.23426rem;
+  height: 20px;
+  height: 0.23426rem;
+  border-radius: 50%;
+  margin-right: 6px;
+  margin-right: 0.07028rem;
+}
+.nft-msg-card .cont .msg-item .value .author .username[data-v-7ad692ef] {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  min-width: 0;
+}

@@ -1,0 +1,91 @@
+.user-series[data-v-092e4fb1] {
+  background: #fff;
+}
+.user-series-item[data-v-092e4fb1] {
+  border-radius: 12px;
+  border-radius: 0.14056rem;
+  border: 1px solid #EDEFF2;
+  border: 0.01171rem solid #EDEFF2;
+  overflow: hidden;
+  margin-bottom: 20px;
+  margin-bottom: 0.23426rem;
+  cursor: pointer;
+}
+.user-series-item[data-v-092e4fb1]:hover {
+  border-color: #5b6eb0;
+}
+.user-series-item .cover[data-v-092e4fb1] {
+  width: 100%;
+  height: 0;
+  padding-bottom: 50%;
+  position: relative;
+}
+.user-series-item .cover img[data-v-092e4fb1] {
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.user-series-item .cont[data-v-092e4fb1] {
+  padding: 20px;
+  padding: 0.23426rem;
+}
+.user-series-item .cont .name[data-v-092e4fb1] {
+  font-size: 20px;
+  font-size: 0.23426rem;
+}
+.user-series-item .cont .name img[data-v-092e4fb1] {
+  width: 13px;
+  width: 0.15227rem;
+  height: 13px;
+  height: 0.15227rem;
+  margin-left: 5px;
+  margin-left: 0.05857rem;
+}
+.user-series-item .cont .drsc[data-v-092e4fb1] {
+  margin-top: 10px;
+  margin-top: 0.11713rem;
+  font-size: 16px;
+  font-size: 0.18741rem;
+  color: #606266;
+  line-height: 27px;
+  line-height: 0.31625rem;
+  height: 54px;
+  height: 0.6325rem;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.user-series-item .cont .nft-list[data-v-092e4fb1] {
+  margin-top: 20px;
+  margin-top: 0.23426rem;
+}
+.user-series-item .cont .nft-list a[data-v-092e4fb1] {
+  display: inline-block;
+  width: calc((100% - 45px) / 4);
+  width: calc((100% - 0.52709rem) / 4);
+  margin-right: 15px;
+  margin-right: 0.1757rem;
+  height: 0;
+  padding-bottom: calc((100% - 45px) / 4);
+  padding-bottom: calc((100% - 0.52709rem) / 4);
+  position: relative;
+  cursor: pointer;
+}
+.user-series-item .cont .nft-list a[data-v-092e4fb1]:last-child {
+  margin-right: 0;
+}
+.user-series-item .cont .nft-list a img[data-v-092e4fb1] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  -o-object-fit: contain;
+     object-fit: contain;
+  background: #000;
+}
