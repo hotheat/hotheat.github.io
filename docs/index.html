@@ -16,6 +16,14 @@
     <title>NFTOnShow</title>
     <meta name="description" content="元网首个NFT市场">
     <script>
+      (function(){
+        let redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+
       (function(doc, win, designSize,htmlFontSize) {
         var docEl = doc.documentElement,
                 isIOS = navigator.userAgent.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/),
