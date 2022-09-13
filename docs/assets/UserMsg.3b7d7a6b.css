@@ -1,0 +1,35 @@
+.user-msg .avatar-warp[data-v-5dd30755] {
+  width: 48px;
+  width: 0.56223rem;
+  height: 48px;
+  height: 0.56223rem;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 20px;
+  margin-right: 0.23426rem;
+}
+.user-msg .cont .username[data-v-5dd30755] {
+  font-size: 16px;
+  font-size: 0.18741rem;
+  font-weight: 500;
+  color: #120725;
+}
+.user-msg .cont .username img[data-v-5dd30755] {
+  margin-left: 8px;
+  margin-left: 0.0937rem;
+  width: 18px;
+  width: 0.21083rem;
+  height: 18px;
+  height: 0.21083rem;
+}
+.user-msg .cont .metaId[data-v-5dd30755] {
+  font-size: 13px;
+  font-size: 0.15227rem;
+  color: #909399;
+  margin-top: 4px;
+  margin-top: 0.04685rem;
+}
+.user-msg .cont .metaId span[data-v-5dd30755] {
+  margin-right: 5px;
+  margin-right: 0.05857rem;
+}

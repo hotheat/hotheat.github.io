@@ -1,0 +1,85 @@
+.topic-list .topic-item .msg .title[data-v-da20f088] {
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.topic-list[data-v-da20f088] {
+  margin-top: 40px;
+  margin-top: 0.46852rem;
+  padding-bottom: 60px;
+  padding-bottom: 0.70278rem;
+}
+.topic-list .topic-item[data-v-da20f088] {
+  display: inline-block;
+  padding: 3px;
+  padding: 0.03514rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: calc((100% - 20px) / 2);
+  width: calc((100% - 0.23426rem) / 2);
+  margin-right: 20px;
+  margin-right: 0.23426rem;
+  color: inherit;
+  text-decoration: none;
+  margin-bottom: 30px;
+  margin-bottom: 0.35139rem;
+  cursor: pointer;
+  border-radius: 6px;
+  border-radius: 0.07028rem;
+  background: #5d00ff;
+}
+.topic-list .topic-item[data-v-da20f088]:nth-child(2n) {
+  margin-right: 0;
+}
+.topic-list .topic-item .cover[data-v-da20f088] {
+  width: 100%;
+  display: block;
+  border-radius: 6px 6px 0 0;
+  border-radius: 0.07028rem 0.07028rem 0 0;
+  overflow: hidden;
+}
+.topic-list .topic-item .msg[data-v-da20f088] {
+  padding: 15px;
+  padding: 0.1757rem;
+}
+.topic-list .topic-item .msg .title[data-v-da20f088] {
+  margin-top: 15px;
+  margin-top: 0.1757rem;
+  font-size: 20px;
+  font-size: 0.23426rem;
+  font-weight: 500;
+}
+.topic-list .topic-item .msg .time[data-v-da20f088] {
+  color: #fff;
+  font-size: 14px;
+  font-size: 0.16398rem;
+  margin-top: 10px;
+  margin-top: 0.11713rem;
+}
+.topic-list .topic-item .msg .creater[data-v-da20f088] {
+  margin-top: 10px;
+  margin-top: 0.11713rem;
+  color: #fff;
+  font-size: 14px;
+  font-size: 0.16398rem;
+  font-weight: 400;
+}
+.topic-list .topic-item .msg .creater .avatar[data-v-da20f088] {
+  width: 18px;
+  width: 0.21083rem;
+  height: 18px;
+  height: 0.21083rem;
+  margin: 0 5px;
+  margin: 0 0.05857rem;
+}
+@media only screen and (max-width: 750px) {
+.topic-list .topic-item[data-v-da20f088] {
+    display: block;
+    width: auto;
+    margin-right: 0;
+}
+.topic-list .topic-item[data-v-da20f088]:nth-child(2n) {
+    margin-right: 0;
+}
+}

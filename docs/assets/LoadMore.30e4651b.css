@@ -1,0 +1,41 @@
+.pagination[data-v-0ec2e660] {
+  text-align: center;
+  margin-top: 30px;
+  margin-top: 0.35139rem;
+  margin-bottom: 60px;
+  margin-bottom: 0.70278rem;
+}
+.pagination .nothing[data-v-0ec2e660] {
+  text-align: center;
+  color: #909399;
+  font-size: 14px;
+  font-size: 0.16398rem;
+  margin-top: 30px;
+  margin-top: 0.35139rem;
+}
+.pagination .more-warp[data-v-0ec2e660] {
+  cursor: pointer;
+  text-align: center;
+}
+.pagination .more-warp .tips[data-v-0ec2e660] {
+  font-size: 16px;
+  font-size: 0.18741rem;
+  border: 1px solid #ffa800;
+  border: 0.01171rem solid #ffa800;
+  color: #ffa800;
+  display: inline-block;
+  padding: 10px 20px;
+  padding: 0.11713rem 0.23426rem;
+  border-radius: 20px;
+  border-radius: 0.23426rem;
+}
+.pagination .more-warp .icon[data-v-0ec2e660] {
+  margin-top: 10px;
+  margin-top: 0.11713rem;
+}
+.pagination .more-warp .icon img[data-v-0ec2e660] {
+  width: 12px;
+  width: 0.14056rem;
+  height: 12px;
+  height: 0.14056rem;
+}

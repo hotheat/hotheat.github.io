@@ -1,0 +1,28 @@
+.create-success {
+  max-width: 450px;
+  max-width: 5.27086rem;
+  padding: 0 30px 90px 30px;
+  padding: 0 0.35139rem 1.05417rem 0.35139rem;
+  margin: 0 auto;
+}
+.create-success .title {
+  font-size: 30px;
+  font-size: 0.35139rem;
+  font-weight: 500;
+  text-align: center;
+}
+.create-success .nft-msg-card {
+  margin-top: 40px;
+  margin-top: 0.46852rem;
+}
+.create-success .operates {
+  margin-top: 80px;
+  margin-top: 0.93704rem;
+}
+.create-success .operates .btn {
+  margin-right: 20px;
+  margin-right: 0.23426rem;
+}
+.create-success .operates .btn:last-child {
+  margin-right: 0;
+}

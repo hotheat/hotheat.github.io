@@ -1,0 +1,33 @@
+.sort-warp .sort-item[data-v-1e844138] {
+  background: transparent;
+  border-radius: 6px;
+  border-radius: 0.07028rem;
+  cursor: pointer;
+  margin-right: 10px;
+  margin-right: 0.11713rem;
+  border: 1px solid #6b43b0;
+  border: 0.01171rem solid #6b43b0;
+  color: #6b43b0;
+}
+.sort-warp .sort-item.active[data-v-1e844138] {
+  background: #d88b18;
+  color: #fff;
+}
+.sort-warp .sort-item .sort-name[data-v-1e844138] {
+  font-size: 14px;
+  font-size: 0.16398rem;
+  padding: 8px;
+  padding: 0.0937rem;
+}
+.sort-warp .sort-item .sort-type[data-v-1e844138] {
+  padding: 8px 5px;
+  padding: 0.0937rem 0.05857rem;
+  border-left: 1px solid #6b43b0;
+  border-left: 0.01171rem solid #6b43b0;
+}
+.sort-warp .sort-item .sort-type img[data-v-1e844138] {
+  width: 14px;
+  width: 0.16398rem;
+  height: 14px;
+  height: 0.16398rem;
+}

@@ -1,0 +1,153 @@
+.auction-item .cont .user-list .user-item .name[data-v-6b60b25e], .auction-item .cont .name[data-v-6b60b25e] {
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.auction-item[data-v-6b60b25e] {
+  display: inline-block;
+  width: calc((100% - 60px) / 4);
+  width: calc((100% - 0.70278rem) / 4);
+  margin-right: 20px;
+  margin-right: 0.23426rem;
+  margin-bottom: 30px;
+  margin-bottom: 0.35139rem;
+  background: #5d00ff;
+  cursor: pointer;
+  border-radius: 8px;
+  border-radius: 0.0937rem;
+  overflow: hidden;
+  position: relative;
+  color: inherit;
+  text-decoration: none;
+}
+.auction-item[data-v-6b60b25e]:nth-child(4n) {
+  margin-right: 0;
+}
+.auction-item .cover[data-v-6b60b25e] {
+  height: 0;
+  padding-bottom: 100%;
+  position: relative;
+  border-radius: 6px;
+  border-radius: 0.07028rem;
+  overflow: hidden;
+}
+.auction-item .cover[data-v-6b60b25e] .cover-image .el-image__inner {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  display: block;
+}
+.auction-item .cover .cover-image[data-v-6b60b25e],
+.auction-item .cover svg[data-v-6b60b25e] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.auction-item .cover .classify[data-v-6b60b25e] {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 6px;
+  border-radius: 0.07028rem;
+  color: #fff;
+  padding: 4px 8px;
+  padding: 0.04685rem 0.0937rem;
+  font-size: 12px;
+  font-size: 0.14056rem;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  margin-bottom: 10px;
+  margin-bottom: 0.11713rem;
+  margin-right: 10px;
+  margin-right: 0.11713rem;
+}
+.auction-item .cover .countdown[data-v-6b60b25e] {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 2;
+  background: #303133;
+  border-radius: 6px;
+  border-radius: 0.07028rem;
+  line-height: 30px;
+  line-height: 0.35139rem;
+  padding: 0 12px;
+  padding: 0 0.14056rem;
+  font-size: 12px;
+  font-size: 0.14056rem;
+  color: #fff;
+  margin-left: 10px;
+  margin-left: 0.11713rem;
+  margin-bottom: 10px;
+  margin-bottom: 0.11713rem;
+  white-space: nowrap;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.auction-item .cover .countdown .dot[data-v-6b60b25e] {
+  width: 6px;
+  width: 0.07028rem;
+  height: 6px;
+  height: 0.07028rem;
+  border-radius: 50%;
+  background: #d88b18;
+  margin-right: 6px;
+  margin-right: 0.07028rem;
+}
+.auction-item .cont[data-v-6b60b25e] {
+  padding: 15px;
+  padding: 0.1757rem;
+}
+.auction-item .cont .name[data-v-6b60b25e] {
+  font-size: 16px;
+  font-size: 0.18741rem;
+  font-weight: 500;
+}
+.auction-item .cont .user-list[data-v-6b60b25e] {
+  margin-top: 10px;
+  margin-top: 0.11713rem;
+}
+.auction-item .cont .user-list .user-item[data-v-6b60b25e] {
+  position: relative;
+  margin-bottom: 8px;
+  margin-bottom: 0.0937rem;
+}
+.auction-item .cont .user-list .user-item[data-v-6b60b25e]:last-child {
+  margin-bottom: 0;
+}
+.auction-item .cont .user-list .user-item .el-skeleton__text[data-v-6b60b25e] {
+  height: 13px;
+  height: 0.15227rem;
+}
+.auction-item .cont .user-list .user-item .avatar[data-v-6b60b25e] {
+  width: 18px;
+  width: 0.21083rem;
+  height: 18px;
+  height: 0.21083rem;
+  border-radius: 50%;
+  margin-right: 4px;
+  margin-right: 0.04685rem;
+  overflow: hidden;
+}
+.auction-item .cont .user-list .user-item .name[data-v-6b60b25e] {
+  font-size: 13px;
+  font-size: 0.15227rem;
+  font-weight: 400;
+}
+.auction-item .cont .user-list .user-item .type[data-v-6b60b25e] {
+  color: #909399;
+  font-size: 13px;
+  font-size: 0.15227rem;
+  white-space: nowrap;
+}
+.auction-item .cont .btn[data-v-6b60b25e] {
+  margin-top: 15px;
+  margin-top: 0.1757rem;
+}

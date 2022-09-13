@@ -1,0 +1,177 @@
+.nft-muodle[data-v-36eb4d87] {
+  background: #3e1487;
+  padding: 30px 0;
+  padding: 0.35139rem 0;
+  color: #fff;
+}
+.nft-muodle .title[data-v-36eb4d87] {
+  font-size: 24px;
+  font-size: 0.28111rem;
+  font-weight: bold;
+  text-align: center;
+}
+.nft-muodle .nft-module-list[data-v-36eb4d87] {
+  margin-top: 90px;
+  margin-top: 1.05417rem;
+}
+.nft-muodle .nft-module-list .nft-module-item[data-v-36eb4d87] {
+  text-align: center;
+}
+.nft-muodle .nft-module-list .nft-module-item .nft-module-item-warp[data-v-36eb4d87] {
+  width: 160px;
+  width: 1.87408rem;
+  margin: 0 auto;
+  text-align: center;
+}
+.nft-muodle .nft-module-list .nft-module-item .icon img[data-v-36eb4d87] {
+  width: 80px;
+  width: 0.93704rem;
+  height: 80px;
+  height: 0.93704rem;
+}
+.nft-muodle .nft-module-list .nft-module-item .name[data-v-36eb4d87] {
+  font-size: 18px;
+  font-size: 0.21083rem;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-top: 0.23426rem;
+}
+.nft-muodle .nft-module-list .nft-module-item .drsc[data-v-36eb4d87] {
+  font-size: 14px;
+  font-size: 0.16398rem;
+  font-weight: 400;
+  color: #a876ff;
+  margin-top: 8px;
+  margin-top: 0.0937rem;
+  line-height: 20px;
+  line-height: 0.23426rem;
+}
+.nft-muodle .nft-module-list .nft-module-item .drsc a[data-v-36eb4d87] {
+  color: #456FC4;
+  cursor: pointer;
+  text-decoration: none;
+}
+@media only screen and (max-width: 750px) {
+.nft-muodle .container .nft-module-list[data-v-36eb4d87] {
+    margin-top: 45px;
+    margin-top: 0.52709rem;
+    display: block;
+}
+.nft-muodle .container .nft-module-list .nft-module-item[data-v-36eb4d87] {
+    display: inline-block;
+    width: 50%;
+    padding: 20px 0;
+    padding: 0.23426rem 0;
+}
+.nft-muodle .container .nft-module-list .nft-module-item .drsc[data-v-36eb4d87] {
+    font-size: 10px;
+    font-size: 0.11713rem;
+}
+}.banner[data-v-ab6583f2] {
+  margin-top: -60px;
+  margin-top: -0.70278rem;
+}
+.home .section[data-v-ab6583f2]:last-child {
+  margin-bottom: 0;
+}
+.home .section.all[data-v-ab6583f2] {
+  padding: 90px 0;
+  padding: 1.05417rem 0;
+  background: #120725;
+}
+.rank[data-v-ab6583f2] {
+  background: #22084f;
+  padding: 100px 0;
+  padding: 1.1713rem 0;
+}
+.rank .title[data-v-ab6583f2] {
+  font-size: 24px;
+  font-size: 0.28111rem;
+  color: #d88b18;
+  text-align: center;
+}
+.rank .drsc[data-v-ab6583f2] {
+  font-size: 16px;
+  font-size: 0.18741rem;
+  color: #9d65ff;
+  text-align: center;
+  margin-top: 10px;
+  margin-top: 0.11713rem;
+}
+.rank .rank-section[data-v-ab6583f2] {
+  margin-top: 60px;
+  margin-top: 0.70278rem;
+}
+.rank .rank-section .rank-section-item[data-v-ab6583f2] {
+  margin-right: 15px;
+  margin-right: 0.1757rem;
+}
+.rank .rank-section .rank-section-item[data-v-ab6583f2]:last-child {
+  margin-right: 0;
+}
+.rank .rank-section .rank-section-item .name[data-v-ab6583f2] {
+  padding: 20px 5px;
+  padding: 0.23426rem 0.05857rem;
+  font-size: 16px;
+  font-size: 0.18741rem;
+  color: #9d65ff;
+  border-bottom: 1px solid #9d65ff;
+  border-bottom: 0.01171rem solid #9d65ff;
+}
+.rank .rank-section .rank-section-item .rank-list .rank-item[data-v-ab6583f2] {
+  padding: 15px 10px;
+  padding: 0.1757rem 0.11713rem;
+  border-bottom: 1px solid #9d65ff;
+  border-bottom: 0.01171rem solid #9d65ff;
+}
+.rank .rank-section .rank-section-item .rank-list .index[data-v-ab6583f2] {
+  color: #d88b18;
+  font-size: 16px;
+  font-size: 0.18741rem;
+  margin-right: 5px;
+  margin-right: 0.05857rem;
+}
+.rank .rank-section .rank-section-item .rank-list .avatar[data-v-ab6583f2] {
+  width: 80px;
+  width: 0.93704rem;
+  height: 80px;
+  height: 0.93704rem;
+  margin-right: 10px;
+  margin-right: 0.11713rem;
+}
+.rank .rank-section .rank-section-item .rank-list .cont[data-v-ab6583f2] {
+  color: #fff;
+  font-size: 16px;
+  font-size: 0.18741rem;
+}
+.rank .rank-section .rank-section-item .rank-list .cont .id[data-v-ab6583f2] {
+  margin-top: 10px;
+  margin-top: 0.11713rem;
+}
+.rank .rank-section .rank-section-item .rank-list .num[data-v-ab6583f2] {
+  color: #d88b18;
+  font-size: 18px;
+  font-size: 0.21083rem;
+  margin-left: 10px;
+  margin-left: 0.11713rem;
+}
+@media only screen and (max-width: 500px) {
+.home .section .section-screen[data-v-ab6583f2] {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: column-reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+}
+.home .section .section-screen .search-warp[data-v-ab6583f2] {
+    width: 100%;
+}
+.home .section .section-screen .tags[data-v-ab6583f2] {
+    margin-top: 15px;
+    margin-top: 0.1757rem;
+}
+.home .section .section-screen .tags a[data-v-ab6583f2] {
+    margin-bottom: 15px;
+    margin-bottom: 0.1757rem;
+}
+}

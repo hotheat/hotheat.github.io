@@ -1,0 +1,46 @@
+.cert[data-v-35158ee8] {
+  cursor: pointer;
+  font-size: 14px;
+  font-size: 0.16398rem;
+  text-align: right;
+}
+.cert .icon-cert[data-v-35158ee8] {
+  width: 18px;
+  width: 0.21083rem;
+  height: 18px;
+  height: 0.21083rem;
+  margin-right: 6px;
+  margin-right: 0.07028rem;
+}
+.cert .icon-right[data-v-35158ee8] {
+  color: #d88b18;
+  font-weight: bold;
+  font-size: 14px;
+  font-size: 0.16398rem;
+}
+.cert span[data-v-35158ee8] {
+  line-height: normal;
+}
+.cert-text[data-v-35158ee8] {
+  color: #909399;
+}
+.certed-user-info .no-cert[data-v-35158ee8] {
+  text-align: center;
+  color: #909399;
+  font-size: 12px;
+  font-size: 0.14056rem;
+}
+.certed-user-info .certed-user-item[data-v-35158ee8] {
+  font-size: 14px;
+  font-size: 0.16398rem;
+  margin-bottom: 8px;
+  margin-bottom: 0.0937rem;
+}
+.certed-user-info .certed-user-item[data-v-35158ee8]:last-child {
+  margin-bottom: 0;
+}
+.certed-user-info .certed-user-item .label[data-v-35158ee8] {
+  color: #909399;
+  margin-right: 10px;
+  margin-right: 0.11713rem;
+}
